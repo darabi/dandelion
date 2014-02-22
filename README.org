@@ -1,0 +1,41 @@
+* Dandelion
+
+Dandelion is a plugin for Eclipse that supports Lisp programming in
+the Eclipse platform. It comes with two ready to use Lisp
+environments: SBCL and CLISP. It is possible to connect other
+environments.
+
+Author: Michael Bohn
+
+Project Home: http://sourceforge.net/p/dandelion-ecl/
+
+Eclipse Update Site: http://dandelion-ecl.sourceforge.net/update/
+
+Licence: GPL v 2
+
+** Screenshots
+
+*** Apropos View
+
+[[doc/manual/img/apropos-view.png]]
+
+*** Lisp Perspective
+
+[[doc/manual/img/lisp-perspective.png]]
+
+*** Lisp Editor and Code Outline
+
+[[doc/manual/img/editor-code-outline.png]]
+
+*** Syntax Analysis
+
+[[doc/manual/img/syntax-analysis.png]]
+
+*** Code Completion
+
+[[doc/manual/img/completion-proposal.png]]
+
+*** Listener View
+
+[[doc/manual/img/listener-view.png]]
+
